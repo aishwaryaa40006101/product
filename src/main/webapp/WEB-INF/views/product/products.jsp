@@ -84,7 +84,7 @@ table, th, td {
 </head>
 <body>
 	
-<h3 align="center">MOVIES LIST</h3>
+<h3 align="center">PRODUCTS LIST</h3>
 <br/>
 <br/>
 <div>
