@@ -67,6 +67,7 @@ align:"center":
 <title>Add Product</title>
 </head>
 <body>
+    <h2 align="center"> Welcome User</h2>
 <h2 align="center"> Enter product details</h2>
  
     <br/>
