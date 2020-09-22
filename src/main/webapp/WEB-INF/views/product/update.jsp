@@ -67,6 +67,8 @@ align:"center":
 <title>Update Product</title>
 </head>
 <body>
+<h2 align="center"> PRODUCT MANAGEMENT APP</h2>
+
 <h2 align="center"> Update product details</h2>
  
     <br/>
